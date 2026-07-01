@@ -1,1 +1,1 @@
-The full overhauled main.js content from above
+The full updated main.js with all new features

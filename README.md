@@ -1,14 +1,19 @@
 # Noizce: Echoes of the Firmament
 
-**Baldur's Gate meets Diablo** in a browser-based AAA-inspired RPG prototype.
+**AAA Browser RPG** - Baldur's Gate + Diablo Hybrid
 
-## Features
-- Hybrid real-time + tactical 'Echo Pause' combat
-- Party companions with smart AI
-- Deep ability system & progression
-- Procedural enemy waves
-- Quest system
-- Mobile & desktop responsive
-- Solana-ready architecture
+## New in v4
+- Character Creation Screen with class selection
+- Full Tiled Isometric Map support
+- Virtual Joystick + On-screen buttons for mobile
+- Talent Tree & Crafting system
+- Generated pixel art assets ready
 
-Built with Phaser 3 for The Noizce Era.
+## Assets
+Add these to public/assets/ from Grok Imagine:
+- tileset_dungeon.png
+- hero_reality_weaver.png
+- virtual_joystick.png
+- skill_button.png
+
+Play on Vercel after deploy.
