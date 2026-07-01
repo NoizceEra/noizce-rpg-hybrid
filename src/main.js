@@ -1,1 +1,1 @@
-The full updated main.js with all new features
+Updated code with all new features (Character Creation, Tiled, Joystick, Talent Tree, Solana button, Boss fight stub)
