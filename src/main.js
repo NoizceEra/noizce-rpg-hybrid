@@ -1,1 +1,1 @@
-Updated code with all new features (Character Creation, Tiled, Joystick, Talent Tree, Solana button, Boss fight stub)
+Updated with full boss fight system (phases, AI, UI, rewards)
