@@ -1,0 +1,1 @@
+The full overhauled main.js content from above

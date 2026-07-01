@@ -1,14 +1,14 @@
-# Noizce RPG Hybrid
+# Noizce: Echoes of the Firmament
 
-Baldur's Gate + Diablo style browser RPG built with Phaser 3.
-
-Play it live on Vercel soon!
+**Baldur's Gate meets Diablo** in a browser-based AAA-inspired RPG prototype.
 
 ## Features
-- Isometric dungeon crawler
-- Real-time + tactical combat
-- Party system
-- Quests & skills
-- Mobile ready
+- Hybrid real-time + tactical 'Echo Pause' combat
+- Party companions with smart AI
+- Deep ability system & progression
+- Procedural enemy waves
+- Quest system
+- Mobile & desktop responsive
+- Solana-ready architecture
 
-Made with ❤️ for The Noizce Era
+Built with Phaser 3 for The Noizce Era.
